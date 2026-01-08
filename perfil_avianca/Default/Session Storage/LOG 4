@@ -1,0 +1,20 @@
+2025/10/24-22:41:01.930 91cda5 Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/MANIFEST-000001
+2025/10/24-22:41:01.931 91cda5 Recovering log #24
+2025/10/24-22:41:01.935 91cda5 Level-0 table #26: started
+2025/10/24-22:41:01.958 91cda5 Level-0 table #26: 437973 bytes OK
+2025/10/24-22:41:01.961 91cda5 Delete type=0 #24
+2025/10/24-22:41:01.964 91cda8 Compacting 4@0 + 1@1 files
+2025/10/24-22:41:01.974 91cda8 Generated table #28@0: 141 keys, 439067 bytes
+2025/10/24-22:41:01.974 91cda8 Compacted 4@0 + 1@1 files => 439067 bytes
+2025/10/24-22:41:01.975 91cda8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/24-22:41:01.976 91cda8 Delete type=2 #16
+2025/10/24-22:41:01.976 91cda8 Delete type=2 #21
+2025/10/24-22:41:01.976 91cda8 Delete type=2 #23
+2025/10/24-22:41:01.976 91cda8 Delete type=2 #26
+2025/10/24-22:41:01.976 91cda8 Delete type=2 #18
+2025/10/24-23:07:24.534 91cda8 Level-0 table #30: started
+2025/10/24-23:07:24.549 91cda8 Level-0 table #30: 437597 bytes OK
+2025/10/24-23:07:24.554 91cda8 Delete type=0 #27
+2025/10/24-23:08:46.750 91cda8 Level-0 table #32: started
+2025/10/24-23:08:46.754 91cda8 Level-0 table #32: 41509 bytes OK
+2025/10/24-23:08:46.765 91cda8 Delete type=0 #29

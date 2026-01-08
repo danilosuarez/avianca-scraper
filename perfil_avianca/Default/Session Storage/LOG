@@ -1,0 +1,20 @@
+2026/01/08-10:03:14.034 aacf Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/MANIFEST-000001
+2026/01/08-10:03:14.035 aacf Recovering log #294
+2026/01/08-10:03:14.040 aacf Level-0 table #297: started
+2026/01/08-10:03:14.059 aacf Level-0 table #297: 444407 bytes OK
+2026/01/08-10:03:14.062 aacf Delete type=0 #294
+2026/01/08-10:03:14.064 aad2 Compacting 4@0 + 1@1 files
+2026/01/08-10:03:14.079 aad2 Generated table #299@0: 988 keys, 456060 bytes
+2026/01/08-10:03:14.079 aad2 Compacted 4@0 + 1@1 files => 456060 bytes
+2026/01/08-10:03:14.080 aad2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/08-10:03:14.081 aad2 Delete type=2 #289
+2026/01/08-10:03:14.081 aad2 Delete type=2 #297
+2026/01/08-10:03:14.081 aad2 Delete type=2 #295
+2026/01/08-10:03:14.081 aad2 Delete type=2 #291
+2026/01/08-10:03:14.081 aad2 Delete type=2 #293
+2026/01/08-10:03:28.918 aad2 Level-0 table #301: started
+2026/01/08-10:03:28.928 aad2 Level-0 table #301: 444522 bytes OK
+2026/01/08-10:03:28.936 aad2 Delete type=0 #298
+2026/01/08-10:30:52.544 aacf Level-0 table #303: started
+2026/01/08-10:30:52.548 aacf Level-0 table #303: 41968 bytes OK
+2026/01/08-10:30:52.551 aacf Delete type=0 #300

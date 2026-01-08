@@ -1,0 +1,6 @@
+2026/01/08-10:03:13.922 aacf Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/08-10:03:13.924 aacf Recovering log #73
+2026/01/08-10:03:13.925 aacf Reusing old log /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Local Storage/leveldb/000073.log 
+2026/01/08-10:24:14.933 aad2 Level-0 table #77: started
+2026/01/08-10:24:14.938 aad2 Level-0 table #77: 9738 bytes OK
+2026/01/08-10:24:14.946 aad2 Delete type=0 #73

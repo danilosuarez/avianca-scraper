@@ -1,0 +1,17 @@
+2025/10/30-09:46:48.306 be0d51 Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/MANIFEST-000001
+2025/10/30-09:46:48.309 be0d51 Recovering log #226
+2025/10/30-09:46:48.315 be0d51 Level-0 table #229: started
+2025/10/30-09:46:48.327 be0d51 Level-0 table #229: 462679 bytes OK
+2025/10/30-09:46:48.332 be0d51 Delete type=0 #226
+2025/10/30-09:46:48.335 be0d54 Compacting 4@0 + 1@1 files
+2025/10/30-09:46:48.351 be0d54 Generated table #231@0: 769 keys, 473081 bytes
+2025/10/30-09:46:48.351 be0d54 Compacted 4@0 + 1@1 files => 473081 bytes
+2025/10/30-09:46:48.352 be0d54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/30-09:46:48.352 be0d54 Delete type=2 #229
+2025/10/30-09:46:48.353 be0d54 Delete type=2 #222
+2025/10/30-09:46:48.353 be0d54 Delete type=2 #220
+2025/10/30-09:46:48.353 be0d54 Delete type=2 #224
+2025/10/30-09:46:48.353 be0d54 Delete type=2 #227
+2025/10/30-09:47:01.867 be0d54 Level-0 table #233: started
+2025/10/30-09:47:01.872 be0d54 Level-0 table #233: 452972 bytes OK
+2025/10/30-09:47:01.874 be0d54 Delete type=0 #230

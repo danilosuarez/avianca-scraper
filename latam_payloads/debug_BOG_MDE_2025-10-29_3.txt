@@ -1,0 +1,82 @@
+{
+  "xp_sales_web_disclaimer_generalDisclaimer_list": [
+    "Asegúrate que cumples los <strong><a href='{{govRequirementsDisclaimerUrl}}' target='_blank'>requisitos para viajar</a></strong> a este destino.",
+    "Las imágenes de cabina Premium Business son de referencia.",
+    "Para viajes con ida y vuelta: el vuelo de ida que elijas determinará los precios de los vuelos de regreso.",
+    "El modelo del avión puede variar por motivos operacionales.",
+    "<strong><a target='_blank' href='{{ratesTermsAndConditions}}'>Infórmate</a></strong> sobre las tarifas promocionales, el derecho al Desistimiento y Retracto, los tiempos de presentación y chequeo en aeropuerto, la vigencia de nuestros tiquetes y tarifas, y el contrato de transporte.",
+    "Los vuelos en tarifa Basic solo te permiten llevar un artículo personal (una cartera, un maletín  para laptop, un bolso para bebé, etc.) Las medidas máximas son 45 x 35 x 20 cm (alto, largo y ancho).",
+    "Si tu artículo personal excede el tamaño o peso máximo permitido, tendrás la opción de enviarlo a la bodega del avión por un costo extra. Si decides no hacerlo, no podremos embarcar tu equipaje en el vuelo ni hacernos responsable de su custodia. <strong><a target='_blank' href='{{cabinBaggage}}'>Más información sobre equipaje.</a></strong>",
+    "El valor del equipaje de bodega puede cambiar hasta 6 horas antes del vuelo.",
+    "Los vuelos operados por Delta o Iberia son en código compartido con LATAM Airlines Colombia. Para todos los vuelos operados bajo esta modalidad, nos guiamos por el principio de <strong><a target='_blank' href='{{jointResponsibility}}'>responsabilidad solidaria.</a></strong>",
+    "Recuerda que para postular a Upgrade de cabina con tramos tienes que haber comprado tu ticket con tarifa Light, Plus, Top, Standard, Classic o Full. <strong><a href={{cabinUpgradeURL}} target='_blank' >Ten en cuenta que si tu tarifa es Light solo podrás postular al Upgrade de cabina con tramos para vuelos nacionales, dentro de Sudamérica y el Caribe, excepto vuelos regionales desde Brasil.</a></strong> Los niños o infantes que viajan con tarifas con descuento, no podrán optar al beneficio de Upgrade LATAM Pass. Para conocer las condiciones de tu pasaje revisa el detalle de la tarifa que compraste.",
+    "Si eliges un vuelo operado por otra aerolínea, podrás seleccionar asientos directamente en esa compañía.",
+    "Si tú o alguno de tus acompañantes tiene una necesidad especial, infórmanos al momento de realizar tu reserva y hasta 48 horas antes de tu vuelo, llamando al <strong><a target='_blank' href={{contactCenterURL}}>Contact Center</a></strong>.",
+    "Información importante para tu viaje a San Andrés: Algunos de nuestros vuelos desde/hacia San Andrés salen de madrugada. Por favor revisa la hora de salida en tu tarjeta de embarque. Para entrar a la isla debes presentar una tarjeta de turismo a las autoridades locales, la que puedes comprar en pesos colombianos (COP) en el mostrador de la aerolínea en vuelos directos, y en la puerta de embarque en vuelos con conexión.",
+    "Para ingresar a Leticia debes presentar una tarjeta de turismo a las autoridades locales, la que puedes comprar en pesos colombianos (COP) al llegar al Aeropuerto Internacional Alfredo Vásquez Cobo de dicha ciudad.",
+    "Podrían aplicar cargos adicionales de la aerolínea por equipaje. Para vuelos hacia y desde Estados Unidos, revisa los cargos por <strong><a target='_blank' href='{{optionalServicesUrl}}'>equipaje y servicios opcionales.</a></strong>",
+    "Si eres ciudadano de Canadá o Australia y viajas a Argentina, recuerda que debes pagar en línea el impuesto de reciprocidad antes de tu llegada. Presenta el comprobante de pago directamente en control migratorio.",
+    "Los pasajeros que se dirijan hacia zonas de riesgo de fiebre amarilla tendrán la obligación de presentar ante la aerolínea, durante el check in o previo al abordaje el carné de certificación de vacunación de Fiebre Amarilla con mínimo 10 días de expedición a la fecha de viaje. Revisa las zonas de riesgo establecidas por el <strong><a target='_blank' href='{{travelerHealth}}'>Ministerio de Salud y Protección Social.</a></strong>"
+  ],
+  "xp_sales_web_disclaimer_newBrandedFaresDisclaimer_list": [
+    "Asegúrate que cumples los <strong><a href='{{govRequirementsDisclaimerUrl}}' target='_blank'>requisitos para viajar</a></strong> a este destino.",
+    "Aunque tu pasaje no permita devolución tienes derecho a solicitar un reembolso de las tasas de embarque. Ten en cuenta que en algunos países cobran un cargo por servicio en la compra y que este monto no es reembolsable.",
+    "Las imágenes de cabina Premium Business son de referencia.",
+    "Para viajes con ida y vuelta: el vuelo de ida que elijas determinará los precios de los vuelos de regreso.",
+    "Si eliges una tarifa que permite un porcentaje o la totalidad de devolución, ten en cuenta que sólo podrás solicitar el reembolso antes del horario de salida del primer vuelo de tu itinerario.",
+    "El modelo del avión puede variar por motivos operacionales.",
+    "Los cupos y precios están sujetos a confirmación en los pasos siguientes.",
+    "Tratándose de compras que comprendan vuelo de ida y vuelta, los vuelos o tramos que componen el itinerario deberán volarse en el orden consecutivo indicado. Si no se vuela algún tramo del itinerario, éste se cancelará, sin aviso previo, en su totalidad y sin reembolso, salvo que las condiciones de la tarifa así lo permitan.",
+    "Recuerda que para postular a Upgrade de cabina con tramos tienes que haber comprado tu ticket con tarifa Light, Plus, Top, Standard, Classic o Full. <strong><a href={{cabinUpgradeURL}} target='_blank' >Ten en cuenta que si tu tarifa es Light solo podrás postular al Upgrade de cabina con tramos para vuelos nacionales, dentro de Sudamérica y el Caribe, excepto vuelos regionales desde Brasil.</a></strong> Los niños o infantes que viajan con tarifas con descuento, no podrán optar al beneficio de Upgrade LATAM Pass. Para conocer las condiciones de tu pasaje revisa el detalle de la tarifa que compraste.",
+    "Si eliges un vuelo operado por otra aerolínea, podrás seleccionar asientos directamente en esa compañía.",
+    "Podrían aplicar cargos adicionales de la aerolínea por equipaje. Para vuelos hacia y desde Estados Unidos, revisa los <strong><a href='{{optionalServicesUrl}}' target='_blank'>cargos por equipaje y servicios opcionales</a>.</strong>",
+    "Si tu destino final es Nueva Zelanda o haces tránsito en este país, debes contar con la nueva <strong><a href='{{newZealandUrl}}' target='_blank'>autorización electrónica de viaje</a>.</strong>",
+    "Ten en cuenta que los vuelos con origen o destino en Río de Janeiro, pueden operar en los aeropuertos de Galeao (GIG) o Santos Dumont (SDU).",
+    "Los vuelos desde y hacia Buenos Aires pueden operar en los aeropuertos de Ezeiza (EZE) o Aeroparque (AEP). Ten en cuenta los tiempos de traslado en caso de conexiones al interior de Argentina.",
+    "Si eres ciudadano de Canadá o Australia y viajas a Argentina, recuerda que debes pagar en línea el impuesto de reciprocidad antes de tu llegada. Presenta el comprobante de pago directamente en control migratorio.",
+    "Recuerda que si viajas a Cuba debes obtener una visa de turismo (tarjeta turística) en la Embajada de Cuba o consulado de tu país.",
+    "Al finalizar tu estadía en Punta Cana, las autoridades locales requieren que pagues un impuesto de salida de US$ 10. Las tasas y/o impuestos están sujetos a cambio sin previo aviso.",
+    "Le informamos que para aquellos extranjeros que deseen permanecer en Francia por menos de 90 días existen ciertos documentos y/o requisitos obligatorios. Por favor infórmese en la embajada francesa de su país.",
+    "Si eres menor de 18 años, te sugerimos contactar al Consulado o a autoridad diplomática de Sudáfrica en tu país para informarte sobre la documentación adicional que deberás presentar al llegar a tu destino. Ten en cuenta que si viajas a Sudáfrica desde un país donde existe riesgo de fiebre amarilla, deberás contar con un certificado de vacunación contra esta enfermedad. Esta exigencia también aplica si estuviste en tránsito por más de 12 horas en un aeropuerto de un país con peligro de transmisión. Los niños menores de 1 año no están sujetos a esta medida. Es importante que sepas que debes recibir la vacuna al menos 10 días antes de tu viaje.",
+    "Flexibilidad y cancelaciones: Si el vuelo es cancelado o reprogramado debido a, o con ocasión de la pandemia COVID-19, o por otras razones de seguridad o de fuerza mayor, podrás reprogramar tu viaje, solicitar el reembolso del valor del pasaje o contratar otros servicios de LATAM. <strong><a target='_blank' href='{{knowYourRights}}'>Revisa tus derechos</a></strong>, y las <strong><a target='_blank' href='{{pandemicAlternatives}}'>alternativas asociadas a la pandemia COVID-19.</a></strong>",
+    "En vuelos operados bajo la modalidad de fleteamento la responsabilidad entre la aerolínea contractual y operadora es solidaria."
+  ],
+  "xp_sales_web_fareRegul_checkRefundConditions_list": [
+    "La condición más restrictiva entre los vuelos seleccionados, es la que aplica para todo el pasaje (ida y vuelta).",
+    "Aunque tu pasaje no permita devolución tienes derecho a solicitar un reembolso de las tasas de embarque. Ten en cuenta que en algunos paises cobran un cargo por servicio en la compra y que este monto no es reembolsable."
+  ],
+  "xp_sales_web_fareRegul_withdrawalTitle": "Derecho de Desistimiento",
+  "xp_sales_web_fareRegul_withdrawal": [
+    "El pasajero podrá desistir del viaje antes de su iniciación, dando aviso al transportador o a la agencia de viajes con al menos veinticuatro (24) horas de antelación a la realización del vuelo.",
+    "En estos casos, se podrá retener una suma de dinero a favor del transportador, la cual no podrá ser superior al 10% del valor recibido por concepto de tarifa, excluyendo tasas, impuestos y tarifa administrativa.",
+    "Lo dispuesto aquí no aplicará cuando se trate de tarifas promocionales, salvo que sea ofrecido por el transportador, en cuyo evento se aplicará de conformidad con las condiciones ofrecidas.",
+    "Para la devolución, la aerolínea o agencia que haya efectuado la venta del tiquete, dará orden a la entidad financiera de la devolución correspondiente en un término no mayor a cinco (5) días hábiles siguientes a la solicitud del pasajero.",
+    "La aerolínea y/o agente de viajes, deberá reembolsar el dinero al pasajero en un plazo máximo de treinta (30) días calendario a partir de la comunicación del desistimiento.",
+    "Si el pasajero desiste del viaje dando aviso a la agencia de viajes que realizó la venta del tiquete como intermediario, esta procederá a la devolución del dinero al pasajero una vez la aerolínea ponga a su disposición el monto correspondiente, sin perjuicio del plazo de treinta (30) días previsto en el inciso anterior para que la devolución del dinero al pasajero se haga efectivo."
+  ],
+  "xp_sales_web_fareRegul_retractionTitle": "Derecho de Retracto",
+  "xp_sales_web_fareRegul_retractionDescription": "Conforme lo indicado en el Estatuto del Consumidor, Ley 1480 de 2011 este derecho aplica de la siguiente manera:",
+  "xp_sales_web_fareRegul_retraction": [
+    "Para compras realizadas por medios no tradicionales o a distancia. (Contact Center y Pagina Web) ",
+    "El término máximo para ejercer el derecho de retracto será de cinco (5) días hábiles contados a partir del día de la compra del tiquete aéreo. ",
+    "Aplica, siempre y cuando el servicio no haya tenido que ejecutarse durante los mismos cinco (5) días hábiles. ",
+    "No se podrá generar retención alguna, procede la devolución total. ",
+    "No procede devolución de tarifa administrativa, de conformidad con lo establecido en la Resolución 3596 de 2006."
+  ],
+  "xp_sales_web_fareRegul_promotionalFaresTitle": "Tarifas promocionales",
+  "xp_sales_web_fareRegul_promotionalFares": ["Son tarifas promocionales Basic y Light."],
+  "xp_sales_web_fareRegul_checkGeneralConditions_list": [
+    "Revisa las regulaciones sobre cambios para cada una de las tarifas que compraste, ya que sólo podrás cambiar a los vuelos con tarifas que lo permitan. Considera que si realizas un cambio, aplicará el cargo adicional más alto o la condición más restrictiva de los vuelos que deseas cambiar.",
+    "Si aún no has iniciado tu viaje y quieres realizar un cambio, las tarifas de vuelos que te ofreceremos serán las disponibles al momento del cambio y tu viaje deberá cumplir con todas las condiciones de estas nuevas tarifas.",
+    "Si volaste alguno de los tramos del viaje y quieres realizar un cambio, te ofreceremos las tarifas de vuelos disponibles al momento que realizaste la compra de los pasajes. En este caso, también el nuevo viaje debe cumplir siempre con todas las condiciones de las tarifas.",
+    "Si la tarifa original permite cambios y al momento de hacer el cambio ésta ya no está disponible o no cumple con las regulaciones originales, podrás acceder a una nueva tarifa pagando la diferencia.",
+    "Si pagaste parte o el total de tu tarifa en millas, la diferencia tarifaria y multa  para el cambio sólo podrá ser pagada en dinero."
+  ],
+  "xp_sales_web_fareRegul_specialNeedInfo": [
+    "Si tú o alguno de tus acompañantes tiene una necesidad especial, infórmanos al momento de realizar tu reserva y hasta 48 horas antes de tu vuelo, llamando a nuestro Contact Center.",
+    "Si tu maleta pequeña excede el tamaño o peso máximo permitido, tendrás la opción de enviarlo a la bodega del avión por un costo extra. Si decides no hacerlo, no podremos embarcar tu maleta pequeña en el vuelo ni hacernos responsable de su custodia.",
+    "Tu tarifa Basic sólo permite llevar un bolso o mochila, no incluye maleta pequeña. Esta restricción no aplica si compraste Asientos LATAM+."
+  ],
+  "xp_sales_web_airOffers_foodTitle": "Servicio a bordo",
+  "xp_sales_web_airOffers_foodDescription": "Disfruta de una variedad de bebidas y productos de alta calidad."
+}

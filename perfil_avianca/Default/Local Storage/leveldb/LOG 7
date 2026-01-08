@@ -1,0 +1,6 @@
+2025/10/25-12:07:02.371 995062 Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/25-12:07:02.373 995062 Recovering log #20
+2025/10/25-12:07:02.373 995062 Reusing old log /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Local Storage/leveldb/000020.log 
+2025/10/25-12:15:17.842 995065 Level-0 table #24: started
+2025/10/25-12:15:17.845 995065 Level-0 table #24: 9596 bytes OK
+2025/10/25-12:15:17.847 995065 Delete type=0 #20

@@ -1,0 +1,21 @@
+2026/01/06-14:31:55.023 5c0f03 Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/MANIFEST-000001
+2026/01/06-14:31:55.023 5c0f03 Recovering log #274
+2026/01/06-14:31:55.024 5c0f03 Reusing old log /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/000274.log 
+2026/01/06-14:32:08.000 5c0f06 Level-0 table #278: started
+2026/01/06-14:32:08.006 5c0f06 Level-0 table #278: 444731 bytes OK
+2026/01/06-14:32:08.009 5c0f06 Delete type=0 #274
+2026/01/06-14:32:08.010 5c0f06 Compacting 4@0 + 1@1 files
+2026/01/06-14:32:08.021 5c0f06 Generated table #279@0: 874 keys, 453994 bytes
+2026/01/06-14:32:08.021 5c0f06 Compacted 4@0 + 1@1 files => 453994 bytes
+2026/01/06-14:32:08.023 5c0f06 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/06-14:32:08.023 5c0f06 Delete type=2 #275
+2026/01/06-14:32:08.023 5c0f06 Delete type=2 #273
+2026/01/06-14:32:08.023 5c0f06 Delete type=2 #271
+2026/01/06-14:32:08.023 5c0f06 Delete type=2 #268
+2026/01/06-14:32:08.023 5c0f06 Delete type=2 #278
+2026/01/06-14:33:16.197 5c0f03 Level-0 table #281: started
+2026/01/06-14:33:16.202 5c0f03 Level-0 table #281: 41476 bytes OK
+2026/01/06-14:33:16.206 5c0f03 Delete type=0 #277
+2026/01/06-14:40:05.255 5c0f06 Level-0 table #283: started
+2026/01/06-14:40:05.265 5c0f06 Level-0 table #283: 427395 bytes OK
+2026/01/06-14:40:05.268 5c0f06 Delete type=0 #280

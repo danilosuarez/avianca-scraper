@@ -1,0 +1,69 @@
+2025/10/27-12:14:14.137 ae9385 Reusing MANIFEST /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/MANIFEST-000001
+2025/10/27-12:14:14.138 ae9385 Recovering log #193
+2025/10/27-12:14:14.138 ae9385 Reusing old log /Users/danilosuarezvargas/Documents/Proyectos python/perfil_avianca/Default/Session Storage/000193.log 
+2025/10/27-12:14:27.790 ae9388 Level-0 table #197: started
+2025/10/27-12:14:27.798 ae9388 Level-0 table #197: 454190 bytes OK
+2025/10/27-12:14:27.803 ae9388 Delete type=0 #193
+2025/10/27-12:44:15.231 ae9388 Level-0 table #199: started
+2025/10/27-12:44:15.234 ae9388 Level-0 table #199: 41359 bytes OK
+2025/10/27-12:44:15.236 ae9388 Delete type=0 #196
+2025/10/27-12:50:12.080 ae9388 Level-0 table #201: started
+2025/10/27-12:50:12.085 ae9388 Level-0 table #201: 12835 bytes OK
+2025/10/27-12:50:12.088 ae9388 Delete type=0 #198
+2025/10/27-12:50:12.090 ae9388 Compacting 4@0 + 1@1 files
+2025/10/27-12:50:12.113 ae9388 Generated table #202@0: 738 keys, 484086 bytes
+2025/10/27-12:50:12.113 ae9388 Compacted 4@0 + 1@1 files => 484086 bytes
+2025/10/27-12:50:12.115 ae9388 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/27-12:50:12.116 ae9388 Delete type=2 #201
+2025/10/27-12:50:12.116 ae9388 Delete type=2 #199
+2025/10/27-12:50:12.116 ae9388 Delete type=2 #197
+2025/10/27-12:50:12.116 ae9388 Delete type=2 #194
+2025/10/27-12:50:12.116 ae9388 Delete type=2 #192
+2025/10/27-12:58:10.125 ae9388 Level-0 table #204: started
+2025/10/27-12:58:10.135 ae9388 Level-0 table #204: 13061 bytes OK
+2025/10/27-12:58:10.139 ae9388 Delete type=0 #200
+2025/10/27-13:05:11.117 ae9388 Level-0 table #206: started
+2025/10/27-13:05:11.121 ae9388 Level-0 table #206: 13133 bytes OK
+2025/10/27-13:05:11.125 ae9388 Delete type=0 #203
+2025/10/27-13:20:11.118 ae9385 Level-0 table #208: started
+2025/10/27-13:20:11.125 ae9385 Level-0 table #208: 13082 bytes OK
+2025/10/27-13:20:11.129 ae9385 Delete type=0 #205
+2025/10/27-13:35:35.727 ae9388 Level-0 table #210: started
+2025/10/27-13:35:35.746 ae9388 Level-0 table #210: 13179 bytes OK
+2025/10/27-13:35:35.751 ae9388 Delete type=0 #207
+2025/10/27-13:35:35.751 ae9388 Compacting 4@0 + 1@1 files
+2025/10/27-13:35:35.773 ae9388 Generated table #211@0: 738 keys, 483998 bytes
+2025/10/27-13:35:35.773 ae9388 Compacted 4@0 + 1@1 files => 483998 bytes
+2025/10/27-13:35:35.774 ae9388 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/27-13:35:35.775 ae9388 Delete type=2 #202
+2025/10/27-13:35:35.775 ae9388 Delete type=2 #210
+2025/10/27-13:35:35.775 ae9388 Delete type=2 #204
+2025/10/27-13:35:35.775 ae9388 Delete type=2 #206
+2025/10/27-13:35:35.775 ae9388 Delete type=2 #208
+2025/10/27-14:37:55.918 ae9388 Level-0 table #213: started
+2025/10/27-14:37:55.926 ae9388 Level-0 table #213: 14205 bytes OK
+2025/10/27-14:37:55.935 ae9388 Delete type=0 #209
+2025/10/27-14:57:44.299 ae9385 Level-0 table #215: started
+2025/10/27-14:57:44.305 ae9385 Level-0 table #215: 13471 bytes OK
+2025/10/27-14:57:44.308 ae9385 Delete type=0 #212
+2025/10/27-15:18:20.356 ae9388 Level-0 table #217: started
+2025/10/27-15:18:20.360 ae9388 Level-0 table #217: 13778 bytes OK
+2025/10/27-15:18:20.362 ae9388 Delete type=0 #214
+2025/10/27-15:37:04.059 ae9388 Level-0 table #219: started
+2025/10/27-15:37:04.065 ae9388 Level-0 table #219: 13778 bytes OK
+2025/10/27-15:37:04.068 ae9388 Delete type=0 #216
+2025/10/27-15:37:04.071 ae9388 Compacting 4@0 + 1@1 files
+2025/10/27-15:37:04.089 ae9388 Generated table #220@0: 738 keys, 484009 bytes
+2025/10/27-15:37:04.089 ae9388 Compacted 4@0 + 1@1 files => 484009 bytes
+2025/10/27-15:37:04.090 ae9388 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/27-15:37:04.091 ae9388 Delete type=2 #217
+2025/10/27-15:37:04.091 ae9388 Delete type=2 #215
+2025/10/27-15:37:04.091 ae9388 Delete type=2 #211
+2025/10/27-15:37:04.091 ae9388 Delete type=2 #213
+2025/10/27-15:37:04.091 ae9388 Delete type=2 #219
+2025/10/27-15:58:54.897 ae9388 Level-0 table #222: started
+2025/10/27-15:58:54.903 ae9388 Level-0 table #222: 13770 bytes OK
+2025/10/27-15:58:54.909 ae9388 Delete type=0 #218
+2025/10/27-16:18:51.318 ae9388 Level-0 table #224: started
+2025/10/27-16:18:51.321 ae9388 Level-0 table #224: 13485 bytes OK
+2025/10/27-16:18:51.325 ae9388 Delete type=0 #221
