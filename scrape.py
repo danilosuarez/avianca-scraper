@@ -334,8 +334,8 @@ async def scrape_flights(args):
             "--disable-gpu",
         ]
         
-        # Lanzar navegador (soportar headless variable)
-        browser = await p.chromium.launch(
+        # Lanzar navegador (Firefox por evasión)
+        browser = await p.firefox.launch(
             headless=args.headless,
             args=browser_args
         )
