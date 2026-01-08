@@ -30,7 +30,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install firefox
-          sudo playwright install-deps
+          sudo -E env "PATH=$PATH" python -m playwright install-deps
 
       - name: Run Scraper
         run: |
