@@ -12,6 +12,9 @@ import pandas as pd
 from playwright.async_api import async_playwright, Error, TimeoutError
 
 # -------- CONFIGURACIÓN FACTORIZADA --------
+# Forzar salida inmediata de logs en GitHub Actions
+sys.stdout.reconfigure(line_buffering=True)
+
 CONFIG = {
     # URLs
     "BASE_URL": "https://www.avianca.com/es/",
