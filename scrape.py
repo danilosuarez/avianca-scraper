@@ -342,10 +342,10 @@ async def scrape_flights(args):
             viewport={"width": 1280, "height": 720}
         )
 
-        # Bloqueo de recursos para velocidad
-        await context.route("**/*", lambda route: asyncio.create_task(route.abort()) 
-                            if route.request.resource_type in ["image", "media", "font", "stylesheet"] 
-                            else asyncio.create_task(route.continue_()))
+        # Bloqueo de recursos para velocidad (COMENTADO PORQUE PUEDE ROMPER AVIANCA)
+        # await context.route("**/*", lambda route: asyncio.create_task(route.abort()) 
+        #                     if route.request.resource_type in ["image", "media", "font", "stylesheet"] 
+        #                     else asyncio.create_task(route.continue_()))
 
         # Forzar cierre de conexiones para evitar hanging
         async def _connection_close(route):
@@ -365,9 +365,9 @@ async def scrape_flights(args):
         captured = []
         async def handle_response(resp):
             try:
-                # Filtrar solo lo que parece JSON útil de avianca
-                if "journeyPrice" not in resp.url and "availability" not in resp.url:
-                     return # Optimización simple
+                # Filtrar solo lo que parece JSON útil de avianca (COMENTADO PARA MAYOR SEGURIDAD)
+                # if "journeyPrice" not in resp.url and "availability" not in resp.url:
+                #      return # Optimización simple
                 
                 if resp.status != 200:
                     return
